@@ -126,8 +126,8 @@
     name: 'Login',
     data () {
       return {
-        email: 'miki.nu8888@gmail.com',
-        password: '123qwerty',
+        email: '',
+        password: '',
       }
     },
     computed: {
